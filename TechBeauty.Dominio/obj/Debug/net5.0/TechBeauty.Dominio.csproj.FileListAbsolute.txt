@@ -1,0 +1,30 @@
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\bin\Debug\net5.0\TechBeauty.Dominio.deps.json
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\bin\Debug\net5.0\TechBeauty.Dominio.dll
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\bin\Debug\net5.0\ref\TechBeauty.Dominio.dll
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\bin\Debug\net5.0\TechBeauty.Dominio.pdb
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.csproj.AssemblyReference.cache
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.AssemblyInfoInputs.cache
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.AssemblyInfo.cs
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.dll
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\ref\TechBeauty.Dominio.dll
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.pdb
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\bin\Debug\net5.0\TechBeauty.Dominio.deps.json
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\bin\Debug\net5.0\TechBeauty.Dominio.runtimeconfig.json
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\bin\Debug\net5.0\TechBeauty.Dominio.runtimeconfig.dev.json
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\bin\Debug\net5.0\TechBeauty.Dominio.dll
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\bin\Debug\net5.0\ref\TechBeauty.Dominio.dll
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\bin\Debug\net5.0\TechBeauty.Dominio.pdb
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.csproj.AssemblyReference.cache
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.AssemblyInfoInputs.cache
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.AssemblyInfo.cs
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.dll
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\ref\TechBeauty.Dominio.dll
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.pdb
+C:\Users\Wallyson Nabarro\Documents\Mirante\Curso\Projeto de conclusão\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.genruntimeconfig.cache
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\bin\Debug\net5.0\TechBeauty.Dominio.runtimeconfig.json
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\bin\Debug\net5.0\TechBeauty.Dominio.runtimeconfig.dev.json
+C:\Users\Wallyson Nabarro\source\repos\TecBeauty\TechBeauty.Dominio\obj\Debug\net5.0\TechBeauty.Dominio.genruntimeconfig.cache
